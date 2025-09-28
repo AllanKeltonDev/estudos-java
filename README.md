@@ -15,12 +15,12 @@ O objetivo é criar um roteiro de estudos pessoal e, ao mesmo tempo, um portfól
 
 A tabela abaixo organiza os módulos de estudo e meu progresso em cada um deles.
 
-| Módulo | Status | Breve Descrição | Link para o Código |
-| :--- | :---: | :--- | :---: |
+| Módulo | Status | Breve Descrição | 
+| :--- | :---: | :--- | 
 | **01. Fundamentos da Linguagem** | ✅ | Sintaxe, variáveis, tipos de dados, operadores e estruturas de controle. | 
 | **02. Programação Orientada a Objetos (POO)** | ✅ | Classes, objetos, herança, polimorfismo, encapsulamento e interfaces. | 
 | **03. Tópicos Essenciais** | 📝 | Tratamento de exceções, Collections Framework, e manipulação de arquivos. | [
-| **04. API de Streams e Lambdas** | 📝 | Programação funcional em Java, manipulação de coleções de forma declarativa. | |
+| **04. API de Streams e Lambdas** | 📝 | Programação funcional em Java, manipulação de coleções de forma declarativa. | 
 | **05. Acesso a Banco de Dados (JDBC)** | ⏳ | Conexão e manipulação de bancos de dados relacionais com Java. | 
 | **06. Gerenciamento de Dependências** | ⏳ | Introdução ao Maven e/ou Gradle para gerenciar projetos. | 
 | **07. Spring Framework (Core)** | ⏳ | Inversão de Controle (IoC), Injeção de Dependências (DI) e o contêiner Spring. | 
@@ -64,5 +64,5 @@ Minhas principais fontes de estudo e ferramentas favoritas:
 
 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue)](https://www.linkedin.com/in/allan-kelton/)
-[![GitHub](https://img.shields.io/badge/GitHub-SeuUsuário-black)](https://github.com/AllanKeltonDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AllanKelton-blue)](https://www.linkedin.com/in/allan-kelton/)
+[![GitHub](https://img.shields.io/badge/GitHub-AllanKeltonDev-black)](https://github.com/AllanKeltonDev)
